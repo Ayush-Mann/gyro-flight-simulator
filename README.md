@@ -28,7 +28,7 @@ A mobile-first gyroscope-based flight simulator that runs entirely in the browse
 
 ## Usage
 
-1. Open the [live demo](https://zhadowvalker.github.io/gyro-flight-simulator/) on your phone
+1. Open the [live demo](https://zhadowvalker.github.io/gyro-flight-simulator/)
 2. Tap **Enable Gyro** and grant permission when prompted
 3. Watch the sensor panel light up — β/γ/α values confirm the gyro is live
 4. Tap **Set Neutral** while holding the phone at your preferred flying angle
